@@ -7,7 +7,7 @@
 - [Правила сдачи](syllabus.md)
 - [Do/Don'ts](do-donts.md)
 - [Таблица успеваемости/очередей](https://docs.google.com/spreadsheets/d/1mUbTHLykqml4in-PVZLzZRuNVpuPTPkHV_NP-DMdd4g/edit)
-- [Обратная связь/Issues/Дискуссии](https://github.com/orgs/algo-2026/discussions) не забудьте прочитать [правила](https://github.com/algo-2026/suggestions-and-requests) 
+- [Обратная связь/Issues/Дискуссии](https://github.com/orgs/algo-2026/discussions) не забудьте прочитать [правила](suggestions-and-requests.md) 
 
 ## Гайды
 - [Как проходит защита](guides/asap-student-guide.md)
