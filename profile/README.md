@@ -6,7 +6,7 @@
 ## Общая информация
 - [Правила сдачи](syllabus.md)
 - [Do/Don'ts](do-donts.md)
-- [Таблица успеваемости/очередей](https://docs.google.com/spreadsheets/d/1n_SvWtdtmraxkdv8xP4nLQKbGhX7Jzv-QD0m2ldR1CY/edit?gid=1907282245#gid=1907282245)
+- [Таблица успеваемости/очередей](https://docs.google.com/spreadsheets/d/1mUbTHLykqml4in-PVZLzZRuNVpuPTPkHV_NP-DMdd4g/edit)
 - [Обратная связь/Issues/Дискуссии](https://github.com/orgs/algo-2026/discussions) не забудьте прочитать [правила](https://github.com/algo-2026/suggestions-and-requests) 
 
 ## Гайды
