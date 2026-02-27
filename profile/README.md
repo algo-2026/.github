@@ -16,6 +16,11 @@
 
 
 ## Лекции
+
+- [Лекция №1 - графы](https://docs.google.com/presentation/d/1Y0S_9wxdusRBJKfHHQzrwQXFG7HOGr1zz34hQyU-sdA/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/FljpRfGbkvHKFA), [поток 2](https://disk.yandex.ru/i/DYlbY_ufZ_YAhw)
+- [Лекция №2 - базовые алгоритмы на графах](https://docs.google.com/presentation/d/1ErPJFjw2-iTuhkPtXY2iFvF_dLUFRxtnDExm1BKfEOI/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/HZ57Gh36BlNtXA), поток 2 (а вот тут проблемы...)
+- [Лекция №3 - поиск пути на графах](https://docs.google.com/presentation/d/1ErPJFjw2-iTuhkPtXY2iFvF_dLUFRxtnDExm1BKfEOI/edit?usp=sharing). Видео: поток 1 (скоро...), поток 2 (скоро...)
+
                 🌸      🌸      🌸
            ~ ~ ~ ~ весенний ветер ~ ~ ~ ~
 
