@@ -25,7 +25,9 @@
 - [Лекция №3 - поиск пути на графах (26.02.2026)](https://docs.google.com/presentation/d/1ErPJFjw2-iTuhkPtXY2iFvF_dLUFRxtnDExm1BKfEOI/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/cPkWfQkZjwjjIg), [поток 2](https://disk.yandex.ru/d/CbDcG-0hsUt3EA)
 - [Лекция №4 - амортизационка 1 (5.03.2026)](https://docs.google.com/presentation/d/16GR5cx9CKc7Y7S4JbF_oqi76r8GkvHBUoK2GraN52a8/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/FfKv9didnX6ZXQ), поток 2 (были в плохой аудитории без видео)
 - [Лекция №5 - амортизационка 2 (12.03.2026)](https://docs.google.com/presentation/d/16GR5cx9CKc7Y7S4JbF_oqi76r8GkvHBUoK2GraN52a8/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/9JeP7nJD9wsEKQ), [поток 2](https://disk.yandex.ru/i/nQQU0hW8djL31A)
-- Лекция №5 - амортизационка 2 (12.03.2026). Видео: (скоро будет...)
+- [Лекция №5 - амортизационка 2 (12.03.2026)](https://docs.google.com/presentation/d/16GR5cx9CKc7Y7S4JbF_oqi76r8GkvHBUoK2GraN52a8/edit?usp=sharing). Видео: (скоро будет...)
+- [Лекция №6 - система непесекающихся множеств (19.03.2026)](https://docs.google.com/presentation/d/1rYgjUhCfQqmufWdIgvSk7jzH8tkb7GuWn6gld9RwS7c/edit?usp=sharing). Видео: (скоро будет...)
+- [Лекция №7 - бинарные и красно-черные деревья (26.03.2026)](https://docs.google.com/presentation/d/1EMs7gxUj3XugDpZp6-_hkiM3egR6S6BLXenkL5Ls44Q/edit?usp=sharing). Видео: (скоро будет...)
 
 
 # Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
