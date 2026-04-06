@@ -28,7 +28,7 @@
 - [Лекция №5 - амортизационка 2 (12.03.2026)](https://docs.google.com/presentation/d/16GR5cx9CKc7Y7S4JbF_oqi76r8GkvHBUoK2GraN52a8/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/9JeP7nJD9wsEKQ), [поток 2](https://disk.yandex.ru/i/nQQU0hW8djL31A)
 - [Лекция №6 - система непесекающихся множеств (19.03.2026)](https://docs.google.com/presentation/d/1rYgjUhCfQqmufWdIgvSk7jzH8tkb7GuWn6gld9RwS7c/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/0yTBBT5_coG8TQ), [поток 2](https://disk.yandex.ru/i/CBM6SYhOpfbNaA)
 - [Лекция №7 - бинарные и красно-черные деревья (26.03.2026)](https://docs.google.com/presentation/d/1EMs7gxUj3XugDpZp6-_hkiM3egR6S6BLXenkL5Ls44Q/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/Vs8EpyhHh1Ph_A)
-- Лекция №8 - B-деревья (02.04.2026). Видео: [поток 1](https://disk.yandex.ru/i/GZDDsefeOY1-9g)
+- [Лекция №8 - B-деревья (02.04.2026)](https://docs.google.com/presentation/d/1Km3tR5hEPLG0mxAH0VGZt8d8aiqPaWr7yh-P3_npbuI/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/GZDDsefeOY1-9g)
 
 
 # Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
