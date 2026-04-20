@@ -30,7 +30,7 @@
 - [Лекция №7 - бинарные и красно-черные деревья (26.03.2026)](https://docs.google.com/presentation/d/1EMs7gxUj3XugDpZp6-_hkiM3egR6S6BLXenkL5Ls44Q/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/Vs8EpyhHh1Ph_A)
 - [Лекция №8 - B-деревья (02.04.2026)](https://docs.google.com/presentation/d/1Km3tR5hEPLG0mxAH0VGZt8d8aiqPaWr7yh-P3_npbuI/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/GZDDsefeOY1-9g)
 - [Лекция №9 - Расширение (09.04.2026)](https://docs.google.com/presentation/d/12yr-Zpr8GZ2XNS3LaNsYnhQBB8W2n2iuLS-Eieh5sKI/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/oxX2RM8l6iB59w), [поток 2](https://disk.yandex.ru/i/Iq4emp7tFaPyRw)
-- [Лекция №10 - Максимальный поток (16.04.2026)](https://docs.google.com/presentation/d/1YCQpIsJH_trCSt_GREr1Gl1IaNDNBsRXll80AleW1gk/edit?usp=sharing). Видео: ...
+- [Лекция №10 - Максимальный поток (16.04.2026)](https://docs.google.com/presentation/d/1YCQpIsJH_trCSt_GREr1Gl1IaNDNBsRXll80AleW1gk/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/_ua3FkBo0N2xKA)
 
 
 # Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
