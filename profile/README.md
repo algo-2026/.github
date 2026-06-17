@@ -31,6 +31,13 @@
 - [Лекция №8 - B-деревья (02.04.2026)](https://docs.google.com/presentation/d/1Km3tR5hEPLG0mxAH0VGZt8d8aiqPaWr7yh-P3_npbuI/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/GZDDsefeOY1-9g)
 - [Лекция №9 - Расширение (09.04.2026)](https://docs.google.com/presentation/d/12yr-Zpr8GZ2XNS3LaNsYnhQBB8W2n2iuLS-Eieh5sKI/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/oxX2RM8l6iB59w), [поток 2](https://disk.yandex.ru/i/Iq4emp7tFaPyRw)
 - [Лекция №10 - Максимальный поток (16.04.2026)](https://docs.google.com/presentation/d/1YCQpIsJH_trCSt_GREr1Gl1IaNDNBsRXll80AleW1gk/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/_ua3FkBo0N2xKA)
+- [Лекция №11 - Фибоначевы пирамиды (23.04.2026)](https://docs.google.com/presentation/d/1As_ugqwt-1xZmi2KeJ8DQyKvxGamwxKFzzjHfNCBHQQ/edit?usp=sharing). Видео: скоро
+- [Лекция №12 - Деревья Ван-Эмде-Боаса (30.04.2026)](https://docs.google.com/presentation/d/1RvlgzC7JSGyUBMnKWHN928W47u03m5aXQ8iGhCTJq5E/edit?usp=sharing). Видео: скоро
+- [Лекция №13 – Numpy (07.05.2026)](https://docs.google.com/presentation/d/1XfrNRKVRonCTV2ABbXgA4Raa3xBY3OIFTg1rJtUYYR4/edit?usp=sharing)
+- [Лекция №14 – Выч гем (14.05.2026)](https://docs.google.com/presentation/d/1EJZtqTqCwOZUtsvMS8-v8H-w9LtwcPfsIqN6WWHfC4U/edit?usp=sharing)
+- [Лекция №15 – Линейное программирование (21.05.2026)](https://docs.google.com/presentation/d/1jkB9asFbVIxM8aBwUNfIXpao7sNKvvatKpq5s0Scmng/edit?usp=sharing)
+- [Лекция №16 – Многопоточные алгоритмы (28.05.2026)](https://docs.google.com/presentation/d/1dTddRkfVE7lzLcuc4d89C-BJB4k2n3NwehhVd5oDYvo/edit?usp=sharing)
+
 
 
 # Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
